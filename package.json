@@ -1,0 +1,28 @@
+{
+  "name": "puppeteer-demo",
+  "version": "1.0.0",
+  "description": "peppeteer",
+  "main": "index.js",
+  "scripts": {
+    "reptilian": "node reptilian.js",
+    "screenshot": "node screenshot.js",
+    "pdf": "node pdf.js",
+    "search": "node search.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewiscutey/Puppeteer-demo.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewiscutey/Puppeteer-demo/issues"
+  },
+  "homepage": "https://github.com/lewiscutey/Puppeteer-demo#readme",
+  "dependencies": {
+    "puppeteer": "^1.6.1"
+  }
+}
